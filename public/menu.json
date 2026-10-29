@@ -1,0 +1,17 @@
+{
+  "date": "Today's menu",
+  "items": [
+    { "id": 1, "name": "Chicken Biryani", "category": "Mains", "price": 280, "emoji": "🍛", "description": "Fragrant basmati rice layered with spiced chicken, served with raita.", "calories": 650, "prepTime": "10 min", "tags": ["Spicy"] },
+    { "id": 2, "name": "Daal Chawal", "category": "Mains", "price": 160, "emoji": "🍚", "description": "Yellow tarka daal over steamed rice with a squeeze of lemon.", "calories": 480, "prepTime": "5 min", "tags": ["Vegetarian"] },
+    { "id": 3, "name": "Chicken Karahi (Half)", "category": "Mains", "price": 520, "emoji": "🍲", "description": "Tomato and ginger karahi cooked in a wok, with two naans.", "calories": 720, "prepTime": "20 min", "tags": ["Spicy", "Shareable"] },
+    { "id": 4, "name": "Aloo Paratha", "category": "Breakfast", "price": 120, "emoji": "🫓", "description": "Crisp paratha stuffed with spiced potato, served with yogurt.", "calories": 420, "prepTime": "8 min", "tags": ["Vegetarian"] },
+    { "id": 5, "name": "Anda Omelette Roll", "category": "Breakfast", "price": 140, "emoji": "🌯", "description": "Masala omelette rolled in a soft paratha with green chutney.", "calories": 380, "prepTime": "7 min", "tags": [] },
+    { "id": 6, "name": "Zinger Burger", "category": "Fast Food", "price": 330, "emoji": "🍔", "description": "Crispy chicken fillet, lettuce and mayo in a toasted bun.", "calories": 590, "prepTime": "10 min", "tags": [] },
+    { "id": 7, "name": "Club Sandwich", "category": "Fast Food", "price": 290, "emoji": "🥪", "description": "Triple-decker with chicken, egg, cheese and fries.", "calories": 610, "prepTime": "10 min", "tags": [] },
+    { "id": 8, "name": "Samosa (2 pcs)", "category": "Snacks", "price": 60, "emoji": "🥟", "description": "Crunchy pastry filled with spiced potato and peas.", "calories": 260, "prepTime": "2 min", "tags": ["Vegetarian"] },
+    { "id": 9, "name": "Chana Chaat", "category": "Snacks", "price": 110, "emoji": "🥗", "description": "Chickpeas, onion, tomato and tamarind chutney.", "calories": 240, "prepTime": "3 min", "tags": ["Vegetarian"] },
+    { "id": 10, "name": "Doodh Patti Chai", "category": "Drinks", "price": 50, "emoji": "🍵", "description": "Strong, milky tea brewed on the stove.", "calories": 120, "prepTime": "3 min", "tags": ["Vegetarian"] },
+    { "id": 11, "name": "Mint Margarita", "category": "Drinks", "price": 130, "emoji": "🥤", "description": "Cooling lemon and mint drink over crushed ice.", "calories": 90, "prepTime": "3 min", "tags": ["Vegetarian"] },
+    { "id": 12, "name": "Gulab Jamun (2 pcs)", "category": "Desserts", "price": 90, "emoji": "🍮", "description": "Warm milk dumplings soaked in rose syrup.", "calories": 330, "prepTime": "2 min", "tags": ["Vegetarian"] }
+  ]
+}
